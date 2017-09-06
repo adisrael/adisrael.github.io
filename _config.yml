@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
-
 title: Alexander Israel
 description: blog personal
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
