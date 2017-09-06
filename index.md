@@ -2,7 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Sitio en Construcción...
+
+```Python
+finished = False
+
+while not finished:
+    if check():
+        finished = True
+        print("Bienvenido a mi sitio!")
+    else:
+        print("Lo siento! Por favor intentalo nuevamente en unos días!")
+```
+
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
@@ -120,4 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
