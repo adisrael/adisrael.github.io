@@ -4,7 +4,7 @@ layout: default
 
 # Sitio en Construcción...
 
-```Python
+```python
 finished = False
 
 while not finished:
