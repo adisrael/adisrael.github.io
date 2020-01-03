@@ -2,20 +2,6 @@
 layout: default
 ---
 
-# Sitio en Construcción...
-
-```python
-finished = False
-
-while not finished:
-    if check():
-        finished = True
-        print("Bienvenido a mi sitio!")
-    else:
-        print("Lo siento! Por favor intentalo nuevamente en unos días!")
-```
-
-
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
