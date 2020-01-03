@@ -1,5 +1,60 @@
 title: Alexander Israel N.
-description: blog personal
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-tactile
+tagline: CV Blog Application
+author: Alexander Israel N.
+email: adisrael@uc.cl
+description: Computer science & software engineering student at Pontificia Universidad Católica de Chile (PUC).
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%d-%m-%Y %H:%M"
+
+  # generate social links in footer
+  social_links:
+    github:  adisrael
+    linkedin: alexander-israel
+    telegram: adisrael
+    twitter: aleisrael12
+    instagram: aleisrael12
+    
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-analytics
+ - jekyll-admin
+
+#  jekyll_admin:
+#   hidden_links:
+#     - posts
+#     - pages
+#     - staticfiles
+#     - datafiles
+#     - configuration
