@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-* [Finance Pod - Personal Finance Administrator](https://adisrael.github.io/projects#Finance-Pod---Personal-Finance-Administrator)
-* [University Courses Administration App](https://adisrael.github.io/projects#University-Courses-Administration-App)
-* [Huihuinga - Conference Organization App](https://adisrael.github.io/projects#Huihuinga---Conference-Organization-App)
-* [Foodbook - Facebook Hackathon](https://adisrael.github.io/projects#Foodbook---Facebook-Hackathon)
-* [Agrobolt App](https://adisrael.github.io/projects#Agrobolt-App)
-* [Slashslash](https://adisrael.github.io/projects#Slashslash)
+* [Finance Pod - Personal Finance Administrator](#Finance-Pod---Personal-Finance-Administrator)
+* [University Courses Administration App](#University-Courses-Administration-App)
+* [Huihuinga - Conference Organization App](#Huihuinga---Conference-Organization-App)
+* [Foodbook - Facebook Hackathon](#Foodbook---Facebook-Hackathon)
+* [Agrobolt App](#Agrobolt-App)
+* [Slashslash](#Slashslash)
 
 ---
 
