@@ -4,16 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-* [Finance Pod - Personal Finance Administrator](#Finance-Pod---Personal-Finance-Administrator)
-* [University Courses Administration App](#University-Courses-Administration-App)
-* [Huihuinga - Conference Organization App](#Huihuinga---Conference-Organization-App)
-* [Foodbook - Facebook Hackathon](#Foodbook---Facebook-Hackathon)
-* [Agrobolt App](#Agrobolt-App)
-* [Slashslash](#Slashslash)
+* [Finance Pod - Personal Finance Administrator](#finance-pod)
+* [University Courses Administration App](#university)
+* [Huihuinga - Conference Organization App](#huihuinga)
+* [Foodbook - Facebook Hackathon](#foodbook)
+* [Agrobolt App](#agrobolt)
+* [Slashslash](#slashslash)
 
 ---
 
-## Finance Pod - Personal Finance Administrator
+<h2 id="finance-pod">
+  Finance Pod - Personal Finance Administrator
+</h2>
 
 [https://finance-pod-web.herokuapp.com/](https://finance-pod-web.herokuapp.com/)
 
@@ -47,7 +49,9 @@ Created using [IIC2513 - Template](https://github.com/IIC2513/generator-template
 
 ---
 
-## University Courses Administration App
+<h2 id="university">
+  University Courses Administration App
+</h2>
 
 [https://grupo2testing.herokuapp.com](https://grupo2testing.herokuapp.com)
 
@@ -82,7 +86,9 @@ Created using [IIC2513 - Template](https://github.com/IIC2513/generator-template
 
 ---
 
-## Huihuinga - Conference Organization App
+<h2 id="huihuinga">
+  Huihuinga - Conference Organization App
+</h2>
 
 [https://www.youtube.com/watch?v=8P1ntN03shk&t=2s](https://www.youtube.com/watch?v=8P1ntN03shk&t=2s) (ES - Spanish)
 
@@ -111,7 +117,11 @@ Created using [IIC2513 - Template](https://github.com/IIC2513/generator-template
 
 ---
 
-## [Foodbook - Facebook Hackathon](https://github.com/adisrael/fbhack-foodbook)
+<h2 id="foodbook">
+  Foodbook - Facebook Hackathon
+</h2>
+
+[https://github.com/adisrael/fbhack-foodbook](https://github.com/adisrael/fbhack-foodbook)
 
 [http://food-book-1.herokuapp.com/](http://food-book-1.herokuapp.com/)
 
@@ -131,7 +141,11 @@ Created using [IIC2513 - Template](https://github.com/IIC2513/generator-template
 
 ---
 
-## [Agrobolt App](https://expo.io/@adisrael/agrobolt-mobile)
+<h2 id="agrobolt">
+  Agrobolt App
+</h2>
+
+[https://expo.io/@adisrael/agrobolt-mobile](https://expo.io/@adisrael/agrobolt-mobile)
 
 (Mar - Jul 2019) Mobile aplication for technology-enabled agriculture developed for agriculture startup Agrobolt.
 
@@ -156,7 +170,11 @@ Created using [IIC2513 - Template](https://github.com/IIC2513/generator-template
 
 ---
 
-## [Slashslash](https://github.com/adisrael/Slashslash)
+<h2 id="agrobolt">
+  Slashslash
+</h2>
+
+[https://github.com/adisrael/Slashslash](https://github.com/adisrael/Slashslash)
 
 [https://proyecto-software-grupo29.herokuapp.com](https://proyecto-software-grupo29.herokuapp.com)
 
