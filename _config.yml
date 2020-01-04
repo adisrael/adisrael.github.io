@@ -43,7 +43,10 @@ header_pages:
 - projects.md
 
 show_drafts: true
-show_excerpts: true
+show_excerpts: false
+
+posts:
+- _posts/2016-05-19-super-short-article.md
 
 
 # Build settings
@@ -54,12 +57,3 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-analytics
- - jekyll-admin
-
-#  jekyll_admin:
-#   hidden_links:
-#     - posts
-#     - pages
-#     - staticfiles
-#     - datafiles
-#     - configuration
