@@ -7,7 +7,8 @@ description: Computer science & software engineering student at Pontificia Unive
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%d-%m-%Y %H:%M"
+  date_format: "%b %-d, %Y"
+  # date_format: "%d-%m-%Y %H:%M"
 
   # generate social links in footer
   social_links:
@@ -44,9 +45,6 @@ header_pages:
 
 show_drafts: true
 show_excerpts: false
-
-posts:
-- _posts/2016-05-19-super-short-article.md
 
 
 # Build settings
