@@ -42,16 +42,6 @@ Tzeirei - Ami
 
 # Education
 
- (2002 – 2014) **Instituto Hebreo Dr. Chaim Weizmann** *(Santiago, Chile)*
-  
-```
-Middle School and High School
-  
-Awarded Physics Prize
-
-790.7 weighted score on University AdmissionTest - PSU (max. 850)
-```
-
 (2015 - 2019) **Pontificia Universidad Católica de Chile (PUC)** *(Santiago, Chile)*
 
 ```
@@ -60,4 +50,14 @@ Bachelor Degree in Engineering
 Major in Computer Science and Software Engineering
     
 Minor in Industrial Engineering
+```
+
+ (2002 – 2014) **Instituto Hebreo Dr. Chaim Weizmann** *(Santiago, Chile)*
+  
+```
+Middle School and High School
+  
+Awarded Physics Prize
+
+790.7 weighted score on University AdmissionTest - PSU (max. 850)
 ```

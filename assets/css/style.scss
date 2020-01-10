@@ -3,3 +3,26 @@
 ---
 
 @import "minima-{{ site.minima.skin | default: 'classic' }}";
+
+.img-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 50px;
+  max-width: 50px;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.footer-col {
+  padding-left: 0;
+}
+
+.footer-col p {
+  text-align: center;
+}
+
+.footer-col li {
+  text-align: center;
+}
